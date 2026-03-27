@@ -1,0 +1,27 @@
+# Onboarding Mascot - Minimal Dependencies
+# Slack
+slack-bolt==1.26.0
+slack-sdk==3.37.0
+
+# Vector Store
+weaviate-client==4.17.0
+
+# LLM
+openai==1.109.1
+
+# Web Framework
+fastapi==0.120.1
+uvicorn==0.38.0
+
+# Utils
+python-dotenv==1.2.1
+python-dateutil==2.9.0
+httpx==0.28.1
+aiohttp==3.13.1
+pydantic==2.11.7
+
+# Storage
+google-cloud-firestore==2.19.0
+google-cloud-bigquery==3.28.0
+
+markdown==3.5.2
